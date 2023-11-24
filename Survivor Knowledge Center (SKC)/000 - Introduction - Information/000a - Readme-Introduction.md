@@ -4,10 +4,20 @@ The purpose of the SKC is to provide a knowledge hub for you and your Local Assi
 Please read the next categories carefully, this will be a basic overview of the project. More in depth documentation will be available elsewhere.
 # Warning
 **The SKC is still a work in progress and is not ready to be fully assembled or distributed yet. This document will be updated when all the details are locked down and ready for a final build.**
-# Hardware
+
+# Hardware (Main)
 * [[RaspberryPi4b]]
 * [[Sandisk 512gb MicroSD]]
 * [[Sunfounder PiPower UPS]]
+* Geekpi Cooling B0B9KM9WYL
+* RTL-SDR
+
+# Hardware (Secondary)
 * 
 
 # Software
+* Obsidian
+* GQRX
+* G-Predict
+* Kiwix
+* FoxtrotGPS
