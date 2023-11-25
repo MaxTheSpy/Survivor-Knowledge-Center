@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunfounder PiPower UPS.md",
+                "file": "001 - Hardware/Sunfounder PiPower UPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sunfounder PiPower UPS.md",
+                "file": "001 - Hardware/Sunfounder PiPower UPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sunfounder PiPower UPS.md",
+                "file": "001 - Hardware/Sunfounder PiPower UPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sunfounder PiPower UPS.md"
+                "file": "001 - Hardware/Sunfounder PiPower UPS.md"
               }
             }
           }
@@ -164,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d723cea823fef2a",
+  "active": "7c51d643ccbb61f7",
   "lastOpenFiles": [
     "000 - Introduction - Information/000a - Readme-Introduction.md",
-    "Sunfounder PiPower UPS.md",
-    "Geekpi Cooling B0B9KM9WYL.md",
+    "001 - Hardware/Sunfounder PiPower UPS.md",
+    "001 - Hardware/Geekpi Cooling B0B9KM9WYL.md",
     "001 - Hardware/RaspberryPi4b 8gb.md",
     "002 - Software/Rufus.md",
     "001 - Hardware/Sandisk 512gb MicroSD.md",
